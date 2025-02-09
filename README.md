@@ -1,0 +1,1 @@
+The application is a web based application specifically used for registered users. There are also updates, task web app, and other great features. The website can be accessed on mobile devices as well other than on desktop/laptop devices.
