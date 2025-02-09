@@ -1,0 +1,42 @@
+body {
+    background: rgb(212, 208, 208);
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+#for-logo {
+    width: 70px;
+    border-radius: 10px;
+    padding-right: 7px;
+    border: none;
+}
+
+.carousel-item img {
+    object-fit:cover;
+    height: 300px;
+    width: 50px;
+}
+
+p {
+    color: red;
+    font-weight: bold;
+}
+
+aside {
+    border: solid black;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+li {
+    list-style: square;
+}

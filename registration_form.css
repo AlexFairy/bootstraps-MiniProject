@@ -1,0 +1,28 @@
+body {
+    background: rgb(212, 208, 208);
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+#for-logo {
+    width: 70px;
+    border-radius: 10px;
+    padding-right: 7px;
+    border: none;
+}
+
+.account-links p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
